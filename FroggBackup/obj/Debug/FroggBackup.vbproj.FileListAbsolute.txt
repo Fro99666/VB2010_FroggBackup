@@ -1,0 +1,11 @@
+C:\Users\remy\Documents\GitHub\VB2010_FroggBackup\FroggBackup\bin\Debug\FroggBackup.exe
+C:\Users\remy\Documents\GitHub\VB2010_FroggBackup\FroggBackup\bin\Debug\FroggBackup.pdb
+C:\Users\remy\Documents\GitHub\VB2010_FroggBackup\FroggBackup\bin\Debug\FroggBackup.xml
+C:\Users\remy\Documents\GitHub\VB2010_FroggBackup\FroggBackup\obj\Debug\FroggBackup.Resources.resources
+C:\Users\remy\Documents\GitHub\VB2010_FroggBackup\FroggBackup\obj\Debug\FroggBackup.FroggBackupOption.resources
+C:\Users\remy\Documents\GitHub\VB2010_FroggBackup\FroggBackup\obj\Debug\FroggBackup.vbproj.GenerateResource.Cache
+C:\Users\remy\Documents\GitHub\VB2010_FroggBackup\FroggBackup\obj\Debug\FroggBackup.exe
+C:\Users\remy\Documents\GitHub\VB2010_FroggBackup\FroggBackup\obj\Debug\FroggBackup.xml
+C:\Users\remy\Documents\GitHub\VB2010_FroggBackup\FroggBackup\obj\Debug\FroggBackup.pdb
+C:\Users\remy\Documents\GitHub\VB2010_FroggBackup\FroggBackup\obj\Debug\FroggBackup.FroggDownloadOption.resources
+C:\Users\remy\Documents\GitHub\VB2010_FroggBackup\FroggBackup\obj\Debug\FroggBackup.FroggNotification.resources

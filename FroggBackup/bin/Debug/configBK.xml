@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <optionType>0</optionType>
+  <optionDate>
+    <date>22/05/2015</date>
+    <time>00:00</time>
+    <repeat>True</repeat>
+    <repeatTime>01:00</repeatTime>
+    <month1>True</month1>
+    <month2>True</month2>
+    <month3>True</month3>
+    <month4>True</month4>
+    <month5>True</month5>
+    <month6>True</month6>
+    <month7>True</month7>
+    <month8>True</month8>
+    <month9>True</month9>
+    <month10>True</month10>
+    <month11>True</month11>
+    <month12>True</month12>
+    <day1>True</day1>
+    <day2>True</day2>
+    <day3>True</day3>
+    <day4>True</day4>
+    <day5>True</day5>
+    <day6>True</day6>
+    <day7>True</day7>
+  </optionDate>
+  <optionSource>
+    <selected>
+      <selectedItem>C:\</selectedItem>
+      <selectedItem>D:\VM</selectedItem>
+      <selectedItem>D:\VM-KLI</selectedItem>
+    </selected>
+    <excluded>
+      <excludedItem>C:\Users</excludedItem>
+    </excluded>
+  </optionSource>
+</config>

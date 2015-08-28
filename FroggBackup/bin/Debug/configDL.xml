@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <dlPath>C:\Users\remy\Desktop\</dlPath>
+  <dlFreq>00:01</dlFreq>
+  <optionDownload>
+    <downloads>http://www.rarlab.com/rar/wrar521.exe</downloads>
+  </optionDownload>
+</config>
